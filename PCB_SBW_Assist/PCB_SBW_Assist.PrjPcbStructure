@@ -1,1 +1,3 @@
-Record=TopLevelDocument|FileName=Microcontroller.SchDoc
+Record=TopLevelDocument|FileName=analog_signal.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=analog_signal.SchDoc|FileName=Microcontroller.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=analog_signal.SchDoc|FileName=PCB_SBW_Assist.SchDoc|SheetNumber= 
